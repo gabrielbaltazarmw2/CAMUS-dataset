@@ -12,6 +12,10 @@ O dataset CAMUS é um conjunto de dados amplamente utilizado para pesquisa em se
 
 - **LadderNet paper**: [https://arxiv.org/abs/1810.07810]
 
+- **ready-to-use version of camus**: [https://www.kaggle.com/datasets/toygarr/camus-dataset]
+
+- **original dataset**: [https://humanheart-project.creatis.insa-lyon.fr/database/#collection/6373703d73e9f0047faa1bc8]
+
 ## Aviso
 
 Este projeto é fornecido apenas como exemplo educacional e não deve ser usado em situações de produção sem uma análise apropriada e testes adicionais.
